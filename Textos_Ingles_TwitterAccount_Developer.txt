@@ -1,0 +1,10 @@
+1º campo - I am a student of the MBA course in Data Engineering  at the IGTI ( institute of management and information Technology).
+My course use collect data on social media mainly using APIs, and for this, I am interested in using the Twitter APi.
+The instituition is headquartered in the city of Belo Horizonte (Brazil) and the url of the institution's website is https://www.igti.com.br/ 
+
+
+2º campo - My app use basically tweet, Retweet, like, and, follow functionalities, may i student how to post a tweet by app.
+My goals is to tech How to collect data, How to do sentiment Analysis on tweets. There is no financial interest in these practices, it is only for learning.
+
+
+3º campo -  My goals is to tech How to collect data, How to do sentiment Analysis on tweets. There is no financial interest in these practices, it is only for learning.
